@@ -1,0 +1,7 @@
+.venv/
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+firstcourse.ipynb
