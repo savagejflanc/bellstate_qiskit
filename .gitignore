@@ -1,3 +1,4 @@
+Lib/site-packages/isympy.py
 .venv/
 Include/
 Lib/
@@ -5,4 +6,5 @@ Scripts/
 share/
 pyvenv.cfg
 firstcourse.ipynb
-test.ipynb
+test2.ipynb
+
